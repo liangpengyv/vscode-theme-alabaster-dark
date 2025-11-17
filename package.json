@@ -1,9 +1,9 @@
 {
   "name": "vscode-theme-alabaster-dark",
-  "displayName": "Alabaster Dark Theme",
-  "description": "A light theme with minimal amount of highlighting",
-  "version": "0.0.1",
-  "publisher": "liangpengyv",
+  "displayName": "Alabaster Theme Dark",
+  "description": "A dark theme with minimal amount of highlighting",
+  "version": "0.0.2",
+  "publisher": "lao-liang",
   "engines": {
     "vscode": "^1.80.0"
   },
