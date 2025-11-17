@@ -1,0 +1,43 @@
+{
+  "name": "vscode-theme-alabaster-dark",
+  "displayName": "Alabaster Dark Theme",
+  "description": "A light theme with minimal amount of highlighting",
+  "version": "0.0.1",
+  "publisher": "liangpengyv",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "alabaster",
+    "color-theme"
+  ],
+  "galleryBanner": {
+    "color": "#1e1e1e",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alabaster Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/alabaster-dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liangpengyv/vscode-theme-alabaster-dark"
+  },
+  "bugs": {
+    "url": "https://github.com/liangpengyv/vscode-theme-alabaster-dark/issues"
+  },
+  "homepage": "https://github.com/liangpengyv/vscode-theme-alabaster-dark#readme",
+  "license": "MIT"
+}
+

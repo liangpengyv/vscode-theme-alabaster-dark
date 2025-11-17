@@ -1,0 +1,10 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+.git/**
+.DS_Store
+*.vsix
+node_modules/**
+.editorconfig
+.eslintrc.json
+
